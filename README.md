@@ -1,6 +1,6 @@
 # RTR105
-datormacibas kursa elektroniska klade
-# Ctrl+alt+t -atvert terminalu  
+# datormacibas kursa elektroniska klade
+Ctrl+alt+t -atvert terminalu  
 Ctrl+shift+t -atvert otru kalde terminala   
 Ctrl+l -tira lapa   
 history -skatit komandas vesturi  
