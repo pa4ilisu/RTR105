@@ -1,0 +1,55 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  mkdir Mape
+    5  ls -l
+    6  pwd
+    7  nano mans_pirmais_skripts.sh
+    8  ls -l
+    9  ls
+   10  sl -l
+   11  ls -l
+   12  echo $PATH
+   13  cat mans_pirmais_skripts.sh 
+   14  cat /bin/ls
+   15  62;c
+   16  echo $PATH
+   17  pwd
+   18  PATH=$PATH:~
+   19  echo $PATH
+   20  pwd
+   21  mans
+   22  ls -l
+   23  chmod 764 mans_pirmais_skripts.sh 
+   24  ls -l
+   25  mans_pirmais_skripts.sh 
+   26  ls -l
+   27  cd mape/
+   28  ls -l
+   29  .. cd
+   30  ls -l
+   31  cd
+   32  pwd
+   33  /home/user/mans_pirmais_skripts.sh 
+   34  ./mans_pirmais_skripts.sh 
+   35  pwd
+   36  ~/mans_pirmais_skripts.sh 
+   37  git clone https://github.com/pa4ilisu/RTR105
+   38  ls -l
+   39  cd RTR105
+   40  ls -l
+   41  nano README.md 
+   42  history
+   43  nano README.md 
+   44  pwd
+   45  ls -l
+   46  ls
+   47  nano git-upload
+   48  ls -l
+   49  chmod 764
+   50  ls -l
+   51  chmod 764 git-upload 
+   52  ls-l
+   53  ls -l 
+   54  history 
+   55  history > history_21080920.txt
