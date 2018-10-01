@@ -14,7 +14,27 @@ ctrl+alt+F1 - parslegties starp lietotajiem
 pwd - rada kur ems esam    
 cd(mapu nasaukums)  - ieet mapite  
 cd - izet no mapes   
-cat (faila nosukums)- Nolasa tekstu faila   
+cat (faila nosukums)- Nolasa tekstu faila
+python- iiet python sistema 
+ipython- iiet ipython sistema 
+idle & - ieet idle sistema 
+a = 1 - piveienot a- atbilstosu ciparu
+b = 1.14 pievienot b -a tbilstosu ciparu 
+c = 'A' pievienot c - atbilstosu burtu 
+---------------python-----------
+a = 10 
+b = 1.89
+c='D'
+print("a = %d"%(a))
+print("a = %.4f"(b))
+print("a = %s"%(c))
+
+a =56
+b = 8.96 
+c = 'F'
+print("a = %d"%(a))
+print("a = %.10f"%(b))
+print("a = %S"%(c))    
 
 
 Ka izveidot skriptu?  
@@ -24,6 +44,4 @@ Ka izveidot skriptu?
 4. PATH=$PATH  
 5. PATH=$PATH:~  
 6. echo $PATH  
-7. Piedraazt visu un neko neveidot, potomy 4to nadojelo vsjo uze
-
 
