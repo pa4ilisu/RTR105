@@ -1,0 +1,50 @@
+Python 2.7.12 (default, Dec  4 2017, 14:50:18) 
+[GCC 5.4.0 20160609] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> x = 23
+>>> y= 34
+>>> z =57
+>>> x * y * z
+44574
+>>> x = 67
+>>> x * y * z
+129846
+>>> x
+67
+>>> xx= 45
+>>> xx
+45
+>>> xx = xx + 5
+>>> xx + 5
+55
+>>> xx
+50
+>>> xx
+50
+>>> xx = xx + 34
+>>> xx
+84
+>>> print(12)
+12
+>>> print(xx)
+84
+>>> xx
+84
+>>> zz = 35
+>>> zz = xx/45
+>>> zz
+1
+>>> tt = 467584 * 5
+>>> tt
+2337920
+>>> print(1 *2 * 3)
+6
+>>> x * 2 + tt + xx * 2134
+2517310
+>>> name = valera
+
+Traceback (most recent call last):
+  File "<pyshell#25>", line 1, in <module>
+    name = valera
+NameError: name 'valera' is not defined
+>>> 

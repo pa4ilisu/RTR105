@@ -45,3 +45,19 @@ Ka izveidot skriptu?
 5. PATH=$PATH:~  
 6. echo $PATH  
 
+idle &
+izdomam mainigus 
+piem...
+x = 12
+y = 45
+x * y - spiezam enter bus rezultats
+zz = 55
+zz = zz + 5 tagad zz = ar 60 
+ta var atrisinat jebkuru piem 
+* - reizinajums
+/ - dalijums 
++ - saskait
+- - atnemsana 
+** - power
+% - Remainder 
+
