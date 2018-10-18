@@ -1,0 +1,19 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  firefox &
+    4  idle
+    5  cd RTR105
+    6  ls -l
+    7  git clone https:/github.com/pa4ilisu/RTR105
+    8  cd RTR105
+    9  git clone https:/github.com/pa4ilisu/RTR105
+   10  ./git clone https:/github.com/pa4ilisu/RTR105
+   11  git clone https:/github.com/pa4ilisu/RTR105
+   12  firefox &
+   13  history
+   14  nono RTR105
+   15  nano RTR105
+   16  cd RTR105
+   17  Nano
+   18  history > history20181018.txt
+   19  history > history20181018.txt]history > history20181018.txt]history > history20181018.txt]history > history20181018.txt]cat
