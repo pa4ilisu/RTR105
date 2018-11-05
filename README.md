@@ -44,7 +44,7 @@ Ka izveidot skriptu?
 4. PATH=$PATH  
 5. PATH=$PATH:~  
 6. echo $PATH  
-
+a
 idle &
 izdomam mainigus 
 piem...
